@@ -19,4 +19,8 @@ I will share the plans once they're done. Ofc it's a wip project, then it could 
 
 ### Schematic 
 
-![Prototype](https://cdn.discordapp.com/attachments/702983932471410801/1026552772721647686/unknown.png)
+![Prototype](https://cdn.discordapp.com/attachments/702983932471410801/1026573422370758757/unknown.png)
+
+### Board
+
+![Prototype](https://cdn.discordapp.com/attachments/702983932471410801/1026573462749323384/unknown.png)
