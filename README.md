@@ -7,14 +7,19 @@ One of my cat can eat until he die (see illustration bellow). I had to prevent t
 
 I will share the plans once they're done. Ofc it's a wip project, then it could change over time.
 
-## Electronics
+## Hardware
+
+### Libraries used
+
+#### Eagle libraries
+- [A4988](https://github.com/suzakulab/Eagle-Library-Pololu)
+- [ESP12](https://github.com/handiko/ESP-12EF-Eagle-Library)
 
 ### Parts
 
-- Stepper: Nema 17
-
-- Stepper controller: A4988
-
+- Stepper: `Nema 17`
+- Stepper controller: `A4988`
+- Card: `ESP-12E` (but should work with any `ESP8266`)
 - Power supply: an old computer PSU. You probably have one or two in your garage, right next to your 512MB RAM parts.
 
 ### Schematic 
