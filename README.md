@@ -11,9 +11,11 @@ I will share the plans once they're done. Ofc it's a wip project, then it could 
 
 ### Parts
 
-Stepper: Nema 17
-Stepper controller: A4988
-Power supply: an old computer PSU. You probably have one or two in your garage, right next to your 512MB RAM parts.
+- Stepper: Nema 17
+
+- Stepper controller: A4988
+
+- Power supply: an old computer PSU. You probably have one or two in your garage, right next to your 512MB RAM parts.
 
 ### Schematic 
 
