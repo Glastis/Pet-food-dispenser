@@ -860,7 +860,7 @@ With round pins</description>
 <wire x1="132.08" y1="22.86" x2="106.68" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$4" class="0">
+<net name="GND" class="0">
 <segment>
 <pinref part="JP3" gate="G$1" pin="2"/>
 <pinref part="IC1" gate="G$1" pin="GND"/>
