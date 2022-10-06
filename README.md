@@ -1,6 +1,6 @@
 # Pet-food-dispenser
 
-One of my cat can eat until he die (see illustration bellow). I had to prevent this.
+One of my cat can eat until he dies (see illustration bellow). I had to prevent this.
 
 ![Hungry cat](https://cdn.discordapp.com/attachments/702983932471410801/1026552713351274587/unknown.png)
 
